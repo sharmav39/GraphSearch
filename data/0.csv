@@ -1,0 +1,8 @@
+Row Labels,Average of Solution Depth,Average of Time
+AStar Fast Heuristic,0,3.71302E-05
+AStar Good Heuristic,0,3.22177E-05
+BFS,0,0.000112146
+Dijkstra's Algorithm,0,3.66186E-05
+Parallel BFS,0,9.92129E-05
+Shared Parallel BFS,0,0.00012943
+Grand Total,0,7.44593E-05

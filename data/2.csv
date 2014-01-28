@@ -1,0 +1,61 @@
+Dijkstra's Algorithm,2,0.002279549
+AStar Good Heuristic,2,0.001237251
+AStar Fast Heuristic,2,9.00287E-4
+Parallel BFS,2,9.93037E-4
+Shared Parallel BFS,2,0.001738102
+BFS,2,0.00148753
+Dijkstra's Algorithm,0,1.1882E-5
+AStar Good Heuristic,0,4.1118E-5
+AStar Fast Heuristic,0,3.1042E-5
+Parallel BFS,0,8.7063E-5
+Shared Parallel BFS,0,1.20695E-4
+BFS,0,1.02246E-4
+Dijkstra's Algorithm,2,3.00194E-4
+AStar Good Heuristic,2,1.99684E-4
+AStar Fast Heuristic,2,1.55559E-4
+Parallel BFS,2,0.001361738
+Shared Parallel BFS,2,0.001269512
+BFS,2,0.001086889
+Dijkstra's Algorithm,0,1.0051E-5
+AStar Good Heuristic,0,1.0098E-5
+AStar Fast Heuristic,0,9.664E-6
+Parallel BFS,0,7.1241E-5
+Shared Parallel BFS,0,1.04453E-4
+BFS,0,8.8534E-5
+Dijkstra's Algorithm,2,8.0688E-5
+AStar Good Heuristic,2,1.5419E-4
+AStar Fast Heuristic,2,1.17031E-4
+Parallel BFS,2,3.03282E-4
+Shared Parallel BFS,2,5.80306E-4
+BFS,2,4.99822E-4
+method,depth,time
+Dijkstra's Algorithm,2,1.03367E-4
+AStar Good Heuristic,2,8.0705E-5
+AStar Fast Heuristic,2,6.4879E-5
+Parallel BFS,2,3.16865E-4
+Shared Parallel BFS,2,4.33125E-4
+BFS,2,3.93264E-4
+Dijkstra's Algorithm,2,7.3185E-5
+AStar Good Heuristic,2,4.9664E-5
+AStar Fast Heuristic,2,4.2625E-5
+Parallel BFS,2,2.70524E-4
+Shared Parallel BFS,2,4.23374E-4
+BFS,2,3.63444E-4
+Dijkstra's Algorithm,2,4.1353E-5
+AStar Good Heuristic,2,3.3731E-5
+AStar Fast Heuristic,2,3.1196E-5
+Parallel BFS,2,3.10847E-4
+Shared Parallel BFS,2,4.14797E-4
+BFS,2,3.55726E-4
+Dijkstra's Algorithm,0,4.893E-6
+AStar Good Heuristic,0,4.837E-6
+AStar Fast Heuristic,0,4.745E-6
+Parallel BFS,0,6.9526E-5
+Shared Parallel BFS,0,9.9488E-5
+BFS,0,8.3779E-5
+Dijkstra's Algorithm,2,4.196E-5
+AStar Good Heuristic,2,3.3213E-5
+AStar Fast Heuristic,2,3.0007E-5
+Parallel BFS,2,2.37946E-4
+Shared Parallel BFS,2,3.61417E-4
+BFS,2,3.11069E-4
